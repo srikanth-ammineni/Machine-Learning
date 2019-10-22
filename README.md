@@ -1,6 +1,6 @@
 # Machine-Learning
 
-# 1. Tumor Classifier
+# 1. Tumor Classifier 
 The purpose of this project is to implement logistic regression on a two-class problem and to
 provide a report describing the results, experimental setup and comparison between the results
 obtained from different setting of the algorithm and dataset. The Task is to classify suspected
