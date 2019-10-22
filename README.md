@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Projects
 
 ## 1. Tumor Classifier 
 The purpose of this project is to implement logistic regression on a two-class problem and to
