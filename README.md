@@ -1,6 +1,6 @@
 # Machine-Learning
 
-# 1. Tumor Classifier 
+## 1. Tumor Classifier 
 The purpose of this project is to implement logistic regression on a two-class problem and to
 provide a report describing the results, experimental setup and comparison between the results
 obtained from different setting of the algorithm and dataset. The Task is to classify suspected
@@ -8,7 +8,7 @@ FNA cells to Benign (class 0) or Malignant (class 1) using logistic regression a
 The features used for classification are pre-computed from images of a fine needle aspirate
 (FNA) of a breast mass. The dataset used was Wisconsin Diagnostic Breast Cancer.
 
-# 2. Clothing Image Classifier
+## 2. Clothing Image Classifier
 The purpose of this project is to implement neural network and convolutional neural network
 for the task of classification. The classification task will be that of recognizing an image and
 identify it as one of ten classes. Model is trained using the Fashion-MNIST clothing images.
